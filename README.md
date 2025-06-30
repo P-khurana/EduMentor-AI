@@ -48,9 +48,15 @@
 ```bash
 git clone https://github.com/your-username/eduMentor-ai.git
 cd eduMentor-ai
+```
+### 2. Install dependencies
+```bash
 npm install
 # or
 yarn install
+```
+### 3. Start the development server
+```bash
 npm run dev
 ```
 ### 🤝 Contributing
