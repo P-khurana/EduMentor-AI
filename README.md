@@ -59,18 +59,6 @@ yarn install
 ```bash
 npm run dev
 ```
-### 🤝 Contributing
-We welcome contributions! Here's how you can help:
-
-Fork the project
-
-Create a new branch (git checkout -b feature/YourFeature)
-
-Commit your changes (git commit -m 'Add some feature')
-
-Push to the branch (git push origin feature/YourFeature)
-
-Open a Pull Request
 
 ### 🙌 Acknowledgements
 Special thanks to Lakshay for collaboration
