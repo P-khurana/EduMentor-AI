@@ -53,7 +53,7 @@ npm install
 yarn install
 npm run dev
 ```
-🤝 Contributing
+### 🤝 Contributing
 We welcome contributions! Here's how you can help:
 
 Fork the project
@@ -66,12 +66,12 @@ Push to the branch (git push origin feature/YourFeature)
 
 Open a Pull Request
 
-🙌 Acknowledgements
+### 🙌 Acknowledgements
 Special thanks to Lakshay for collaboration
 
 Inspired by the need for modern digital classrooms
 
 UI/UX design inspired by modern ed-tech platforms
 
-⭐ Show your support by starring the repo!
-Made with ❤️ by Lakshay & Parth
+### ⭐ Show your support by starring the repo!
+### Made with ❤️ by Lakshay & Parth
